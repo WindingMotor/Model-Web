@@ -1,0 +1,4 @@
+/venv
+/__pycache__
+printables_data.json
+skipped_ids.json
